@@ -1,7 +1,7 @@
 #  Vinheria Agnello — Monitor de Luminosidade
 
 **Checkpoint 01 — Edge Computing & Computer Systems**
-FIAP — Engenharia de Software | 2026
+FIAP — Engenharia de Software | 2026 |
 Professor Lucas D. Augusto
 ---
 
@@ -128,7 +128,8 @@ Para simular, use o [Tinkercad](https://www.tinkercad.com) ou o [Wokwi](https://
 ## Integrantes
 
 | Nome | RM |
-|Eduardo Felix Frois Silva|574103|
-|Gabriel Henrique Ongarelli Reis|572636|
-|Matheus de Amorim Brito|572435|
-|Thiago Gomes Nascimento|569436|
+|---|---|
+| Eduardo Felix Frois Silva | 574103 |
+| Gabriel Henrique Ongarelli Reis | 572636 |
+| Matheus de Amorim Brito | 572435 |
+| Thiago Gomes Nascimento | 569436 |
