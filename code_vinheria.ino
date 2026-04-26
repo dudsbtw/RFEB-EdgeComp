@@ -14,7 +14,7 @@ void setup() {
   pinMode(pinVerde, OUTPUT);
   pinMode(pinAmarelo, OUTPUT);
   pinMode(pinVermelho, OUTPUT);
-  pinMode(pinBuzzer, INPUT);
+  pinMode(pinBuzzer, OUTPUT);
 
   Serial.begin(9600); // ativa o monitor serial para acompanhamento das leituras
 }
@@ -35,7 +35,7 @@ void loop() {
     digitalWrite(pinVerde, HIGH);
   } 
 
-  else if (leitura <= LIMIAR_ALTO) {
+  else if ((leitura <= LIMIAR_ALTO) && (leitura > LIMIAR_BAIXO)) {
     // luminosidade moderada
     digitalWrite(pinAmarelo, HIGH);
   } 
@@ -45,7 +45,7 @@ void loop() {
     digitalWrite(pinVermelho, HIGH);
 
     tone(pinBuzzer, 1000);   // toca o buzzer em 1000hz
-    delay(3000);             // mantem por 3 segundos
+    delay(2000);             // mantem por 3 segundos
     noTone(pinBuzzer);       // para o buzzer
 
     // verifica novamente
