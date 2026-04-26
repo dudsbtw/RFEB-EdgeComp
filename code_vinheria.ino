@@ -45,7 +45,7 @@ void loop() {
     digitalWrite(pinVermelho, HIGH);
 
     tone(pinBuzzer, 1000);   // toca o buzzer em 1000hz
-    delay(2000);             // mantem por 3 segundos
+    delay(2000);             // mantem por 2 segundos
     noTone(pinBuzzer);       // para o buzzer
 
     // verifica novamente
