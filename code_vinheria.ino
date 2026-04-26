@@ -50,6 +50,9 @@ void loop() {
 
     // verifica novamente
   }
-}
 
   delay(500); // pausa entre leituras
+  
+}
+
+
