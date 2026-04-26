@@ -105,9 +105,12 @@ void loop() {
 
     // verifica novamente
   }
+
+delay(500); // pausa entre leituras
+
 }
 
-  delay(500); // pausa entre leituras
+  
 
 ```
 
