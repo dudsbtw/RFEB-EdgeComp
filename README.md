@@ -41,10 +41,10 @@ O LDR é ligado em série com o resistor de 10kΩ entre o 5V e o GND. O ponto do
 | Componente | Pino Arduino |
 |---|---|
 | LDR | A0 |
-| LED Verde | D9 |
-| LED Amarelo | D10 |
-| LED Vermelho | D11 |
-| Buzzer | D8 |
+| LED Verde | D10 |
+| LED Amarelo | D9 |
+| LED Vermelho | D8 |
+| Buzzer | D7 |
 
 Cada LED precisa de um resistor de 220Ω em série para não queimar.
 
