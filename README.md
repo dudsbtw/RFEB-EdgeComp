@@ -7,7 +7,7 @@ Professor Lucas D. Augusto
 
 ## O que é esse projeto?
 
-Sistema feito com Arduino que monitora a luminosidade do ambiente onde os vinhos são armazenados. Dependendo da quantidade de luz, o sistema acende um LED colorido e dispara um buzzer como alerta.
+Sistema feito com Arduino que monitora a luminosidade do ambiente onde os vinhos são armazenados. Dependendo da quantidade de luz, o sistema acende um LED colorido e dispara um apito como alerta.
 
 | Luminosidade | LED | Buzzer |
 |---|---|---|
