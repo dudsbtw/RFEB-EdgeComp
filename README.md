@@ -124,8 +124,7 @@ delay(500); // pausa entre leituras
 4. Clique em **Carregar**
 5. Abra o **Monitor Serial** (9600 baud) para ver os valores do LDR em tempo real
 
-Para simular, use o [Tinkercad](https://www.tinkercad.com) ou o [Wokwi](https://wokwi.com) e monte o circuito conforme descrito acima.
-
+Para simular, use o [Tinkercad]([https://www.tinkercad.com](https://www.tinkercad.com/things/2AuozeV0KPZ-fantabulous-snaget/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=c3-_csvtSR4COAFHN_xsA7Tj8xsvylrk27r1EDvhVSE)) ou o [Wokwi](https://wokwi.com)
 ---
 
 ## Integrantes
